@@ -816,13 +816,3 @@ TCGA-OL-A66H-01,YES,NA,Invasive Breast Carcinoma,BLACK OR AFRICAN AMERICAN,NOT H
 TCGA-OL-A66I-01,YES,36,Invasive Breast Carcinoma,BLACK OR AFRICAN AMERICAN,NOT HISPANIC OR LATINO,Female,Stage 2,Living Disease-Free,N/A,N/A,23.46,Negative,Negative,Negative,29,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,deleted,wild-type,wild-type,wild-type,wild-type,pathogenic mutant,wild-type,amplified,wild-type,wild-type
 TCGA-OL-A66J-01,YES,80,Invasive Breast Carcinoma,WHITE,NOT HISPANIC OR LATINO,Female,Stage 1,Living Disease-Free,N/A,N/A,65.57,Positive,Positive,Negative,51,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,wild-type,amplified,wild-type,wild-type,wild-type
 TCGA-OL-A66K-01,YES,72,Invasive Breast Carcinoma,WHITE,NOT HISPANIC OR LATINO,Female,Stage 2,Deceased,N/A,41.89,41.89,Positive,Positive,Negative,24,wild-type,wild-type,wild-type,pathogenic mutant,wild-type,pathogenic mutant,wild-type,wild-type,wild-type,wild-type,deleted,wild-type,wild-type,wild-type,wild-type,wild-type
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Patients with YES consent,,,WHITE,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,817,,,595,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Patients with NO consent,,,ASIAN,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,0,,,54,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Notes:,"From analysis above, all 817 patients consented",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Counting Formula,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"""=COUNTIF(range,""criteria"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"range=cells of interest, ROW_START:ROW_END, for example B2:B818 if column B",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Criteria=""TEXT OF INTEREST""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
